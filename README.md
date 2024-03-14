@@ -35,11 +35,13 @@ trabalho em equipe. Buscando oportunidades para aplicar e aprimorar minhas compe
 
 ##  Pinned Repos
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlonii&repo=Controle-de-estoque&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlonii&repo=Controle-de-estoque&theme=radical)](https://github.com/Carlonii/Controle-de-estoque)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlonii&repo=Portifolio&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlonii&repo=Portifolio&theme=radical)](https://github.com/Carlonii/Portifolio)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlonii&repo=crm-app&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlonii&repo=crm-app&theme=radical)](https://github.com/Carlonii/crm-app)
+
+
 
 
 
