@@ -23,11 +23,8 @@ trabalho em equipe. Buscando oportunidades para aplicar e aprimorar minhas compe
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ## Git
 
-![GitHub](https://github-readme-stats.vercel.app/api?username=Carlonii&show_icons=true&theme=radical)
-
 ![GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlonii&bg_color=141321&title_color=fe428e&text_color=a9fef7)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Carlonii&theme=radical)
 ## Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-carloni-dev/)
@@ -35,3 +32,14 @@ trabalho em equipe. Buscando oportunidades para aplicar e aprimorar minhas compe
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlonii)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://carlonii.github.io/Portifolio/)
+
+##  Pinned Repos
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlonii&repo=Controle-de-estoque&theme=radical)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlonii&repo=Portifolio&theme=radical)
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlonii&repo=crm-app&theme=radical)
+
+
+
